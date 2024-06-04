@@ -1,4 +1,4 @@
-In this project, I have built a **Nxt Trendz - Products Filters Group** app by applying the concepts we have learned till now.
+In this project, I have built a **Nxt Trendz - Products Filters Group** app by applying the concepts i have learned till now.
 
 ### Refer to the images below:
 
